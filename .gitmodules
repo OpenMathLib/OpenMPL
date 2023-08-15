@@ -1,0 +1,6 @@
+[submodule "OpenBLAS"]
+	path = OpenBLAS
+	url = https://github.com/xianyi/OpenBLAS
+[submodule "OpenVML"]
+	path = OpenVML
+	url = https://github.com/OpenMathLib/OpenVML
